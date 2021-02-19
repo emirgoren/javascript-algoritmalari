@@ -1,2 +1,3 @@
-# javascript-algoritmalari
-5 tane js algotirmasi.
+# insta emirgoren
+
+github.com/emirgoren/javascript-algoritmalari
